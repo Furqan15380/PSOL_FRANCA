@@ -8,5 +8,3 @@ vendor/
 .DS_Store
 Thumbs.db
 
-# Database files
-database_setup.sql
