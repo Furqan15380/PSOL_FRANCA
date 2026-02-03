@@ -1,0 +1,12 @@
+# Composer
+vendor/
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database files
+database_setup.sql
